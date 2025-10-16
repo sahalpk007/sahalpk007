@@ -25,7 +25,7 @@
 
 - 🧑‍💻 Frontend engineer building seamless, modern products for business and learning.
 - 🚀 Working at [Pro26](https://pro26.in/), solving real problems with robust software.
-- 🧠 Skilled in: Flutter, Python, Firebase, Appwrite.
+- 🧠 Skilled in: Flutter, Python, Firebase, Appwrite, React, TypeScript, Tailwind CSS, Vite.
 
 ---
 
@@ -44,14 +44,30 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  </a>
+  <a href="https://appwrite.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  </a>
 </p>
 
 ---
@@ -59,15 +75,10 @@
 ### 📈 Real-Time GitHub Stats
 
 <p align="center">
-  <!-- Classic stats: commits, stars, PRs, etc. -->
   <img src="https://github-readme-stats.vercel.app/api?username=sahalpk007&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <!-- Streak bar: daily contributions -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahalpk007&theme=radical" alt="GitHub Streak" />
-  <!-- Languages bar -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahalpk007&layout=compact&theme=radical" alt="Top Langs" />
-  <!-- Profile trophy: PRs, forks, etc -->
   <img src="https://github-profile-trophy.vercel.app/?username=sahalpk007&theme=radical" alt="GitHub Trophy" />
-  <!-- Advanced summary card: PRs, contributors, all-time scores, etc. -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahalpk007&theme=radical" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahalpk007&theme=radical&utcOffset=5" alt="Productive Times" />
 </p>
@@ -75,4 +86,3 @@
 ---
 
 > *Building robust digital solutions for tomorrow, today.*
-
