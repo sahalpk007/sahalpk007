@@ -74,15 +74,6 @@
 
 ### 📈 Real-Time GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahalpk007&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahalpk007&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahalpk007&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sahalpk007&theme=radical" alt="GitHub Trophy" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahalpk007&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahalpk007&theme=radical&utcOffset=5" alt="Productive Times" />
-</p>
-
 ---
 
 > *Building robust digital solutions for tomorrow, today.*
