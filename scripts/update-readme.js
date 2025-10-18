@@ -31,15 +31,33 @@ async function main() {
     token
   );
 
-  // Fetch repos to count stars and commits
+  // If we have a token, fetch the authenticated user to detect whether the token
+  // belongs to the same username. If so, we can safely call /user/repos to include
+  // private repositories (visibility=all). If not, fall back to public listing.
+  let authedLogin = null;
+  if (token) {
+    try {
+      const authed = await fetchJson(`https://api.github.com/user`, token);
+      authedLogin = authed.login;
+    } catch (e) {
+      // ignore — proceed without authed login
+      authedLogin = null;
+    }
+  }
+
+  // Fetch repos to count stars and commits. If the token belongs to the same
+  // user, use /user/repos?visibility=all to include private repos. Otherwise
+  // fall back to /users/:username/repos which only returns public repos.
   let page = 1;
   const per_page = 100;
   let repos = [];
+  const useUserRepos =
+    authedLogin && authedLogin.toLowerCase() === username.toLowerCase();
   while (true) {
-    const batch = await fetchJson(
-      `https://api.github.com/users/${username}/repos?per_page=${per_page}&page=${page}`,
-      token
-    );
+    const url = useUserRepos
+      ? `https://api.github.com/user/repos?visibility=all&per_page=${per_page}&page=${page}`
+      : `https://api.github.com/users/${username}/repos?per_page=${per_page}&page=${page}`;
+    const batch = await fetchJson(url, token);
     repos = repos.concat(batch);
     if (batch.length < per_page) break;
     page++;

@@ -96,7 +96,7 @@
     <tr><th style="padding:6px 12px; text-align:left">Metric</th><th style="padding:6px 12px; text-align:right">Value</th></tr>
   </thead>
   <tbody>
-    <tr><td style="padding:6px 12px">Commits (total)</td><td style="padding:6px 12px; text-align:right">105</td></tr>
+    <tr><td style="padding:6px 12px">Commits (total)</td><td style="padding:6px 12px; text-align:right">106</td></tr>
     <tr><td style="padding:6px 12px">Contributions (last year)</td><td style="padding:6px 12px; text-align:right">N/A</td></tr>
     <tr><td style="padding:6px 12px">Public repos</td><td style="padding:6px 12px; text-align:right">7</td></tr>
     <tr><td style="padding:6px 12px">Stars (received)</td><td style="padding:6px 12px; text-align:right">0</td></tr>
