@@ -74,10 +74,6 @@
 
 ### 📈 Real-Time GitHub Stats
 
----
-
-> *Building robust digital solutions for tomorrow, today.*
-
 <p align="center">
 <!-- START_GITHUB_STATS -->
 <!-- The contents between these markers are updated automatically -->
