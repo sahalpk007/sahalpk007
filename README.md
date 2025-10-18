@@ -118,4 +118,3 @@ cd .\
 npm install
 node ./scripts/update-readme.js
 ```
-
