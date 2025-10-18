@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Sahal P K</h1>
-<h3 align="center">Frontend Software Engineer @ <a href="https://pro26.in/">Pro26</a></h3>
+<h3 align="center">Software Engineer @ <a href="https://pro26.in/">Pro26</a></h3>
 
 <p align="center">
   <a href="https://mspk.vercel.app/" target="_blank">
