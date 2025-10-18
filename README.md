@@ -87,34 +87,23 @@
 
 > *Building robust digital solutions for tomorrow, today.*
 
+<p align="center">
 <!-- START_GITHUB_STATS -->
 <!-- The contents between these markers are updated automatically -->
 
-| Metric | Value |
-|---|---|
-| Commits (total) | 102 |
-| Contributions (last year) | N/A |
-| Public repos | 7 |
-| Stars (received) | 0 |
-| Followers | 0 |
-| Following | 22 |
+<table align="center">
+  <thead>
+    <tr><th style="padding:6px 12px; text-align:left">Metric</th><th style="padding:6px 12px; text-align:right">Value</th></tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding:6px 12px">Commits (total)</td><td style="padding:6px 12px; text-align:right">105</td></tr>
+    <tr><td style="padding:6px 12px">Contributions (last year)</td><td style="padding:6px 12px; text-align:right">N/A</td></tr>
+    <tr><td style="padding:6px 12px">Public repos</td><td style="padding:6px 12px; text-align:right">7</td></tr>
+    <tr><td style="padding:6px 12px">Stars (received)</td><td style="padding:6px 12px; text-align:right">0</td></tr>
+    <tr><td style="padding:6px 12px">Followers</td><td style="padding:6px 12px; text-align:right">0</td></tr>
+    <tr><td style="padding:6px 12px">Following</td><td style="padding:6px 12px; text-align:right">22</td></tr>
+  </tbody>
+</table>
 
 <!-- END_GITHUB_STATS -->
-
-> Note: This README keeps the visual widgets above. A numeric fallback table is automatically updated every Friday 12:00 AM (12 hr) to show the same values if any widget is unavailable.
-
-## About the automated stats updater
-
-This repository includes a GitHub Action that updates the GitHub stats table above on a schedule.
-
-- The workflow is at `.github/workflows/update-github-stats.yml` and runs hourly by default.
-- The update script is `scripts/update-readme.js`. It uses the GitHub REST and GraphQL APIs to fetch live values and replaces the table between `<!-- START_GITHUB_STATS -->` and `<!-- END_GITHUB_STATS -->`.
-- The workflow uses the built-in `GITHUB_TOKEN`. To increase rate limits or enable the GraphQL call reliably, add a personal access token with `repo` and `read:user` scopes as a secret (for example `PERSONAL_GITHUB_TOKEN`) and modify the workflow to set `GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}` in the `env` block.
-
-If you want to run the update locally:
-
-```powershell
-cd .\
-npm install
-node ./scripts/update-readme.js
-```
+</p>

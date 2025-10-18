@@ -104,15 +104,35 @@ async function main() {
     totalCommits = "N/A";
   }
 
-  const table = [];
-  table.push("| Metric | Value |");
-  table.push("|---|---|");
-  table.push(`| Commits (total) | ${totalCommits} |`);
-  table.push(`| Contributions (last year) | ${contributions} |`);
-  table.push(`| Public repos | ${publicRepos} |`);
-  table.push(`| Stars (received) | ${totalStars} |`);
-  table.push(`| Followers | ${followers} |`);
-  table.push(`| Following | ${following} |`);
+  // Build an HTML table (centered) so it aligns visually with the widget images above.
+  const html = [];
+  html.push('<table align="center">');
+  html.push("  <thead>");
+  html.push(
+    '    <tr><th style="padding:6px 12px; text-align:left">Metric</th><th style="padding:6px 12px; text-align:right">Value</th></tr>'
+  );
+  html.push("  </thead>");
+  html.push("  <tbody>");
+  html.push(
+    `    <tr><td style="padding:6px 12px">Commits (total)</td><td style="padding:6px 12px; text-align:right">${totalCommits}</td></tr>`
+  );
+  html.push(
+    `    <tr><td style="padding:6px 12px">Contributions (last year)</td><td style="padding:6px 12px; text-align:right">${contributions}</td></tr>`
+  );
+  html.push(
+    `    <tr><td style="padding:6px 12px">Public repos</td><td style="padding:6px 12px; text-align:right">${publicRepos}</td></tr>`
+  );
+  html.push(
+    `    <tr><td style="padding:6px 12px">Stars (received)</td><td style="padding:6px 12px; text-align:right">${totalStars}</td></tr>`
+  );
+  html.push(
+    `    <tr><td style="padding:6px 12px">Followers</td><td style="padding:6px 12px; text-align:right">${followers}</td></tr>`
+  );
+  html.push(
+    `    <tr><td style="padding:6px 12px">Following</td><td style="padding:6px 12px; text-align:right">${following}</td></tr>`
+  );
+  html.push("  </tbody>");
+  html.push("</table>");
 
   const content = fs.readFileSync(README, "utf8");
   const startIdx = content.indexOf(START);
@@ -126,7 +146,7 @@ async function main() {
   const after = content.slice(endIdx);
   const newBlock =
     "\n<!-- The contents between these markers are updated automatically -->\n\n" +
-    table.join("\n") +
+    html.join("\n") +
     "\n\n";
   const newContent = before + newBlock + after;
   fs.writeFileSync(README, newContent, "utf8");
