@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Software Engineer at Pro26<br>👯 I’m looking to collaborate on meaningful and useful projects<br>🌱 I’m currently learning something new<br>💬 Ask me about my hobbies
+🔭 I’m currently working as Software Engineer (Intern) at Pro26<br>👯 Happy to collaborate on meaningful and useful projects<br>🌱 Learning something new everyday<br>💬 Ask me about my hobbies...
 
 
 ## 🌐 Socials:
