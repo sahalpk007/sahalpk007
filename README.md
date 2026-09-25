@@ -103,9 +103,9 @@ Full-Stack Developer leveraging modern AI-assisted engineering workflows and rap
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahalpk007&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sahalpk007&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=sahalpk007&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahalpk007&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sahalpk007&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
