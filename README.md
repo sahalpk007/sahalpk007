@@ -94,9 +94,15 @@ Full-Stack Developer leveraging modern AI-assisted engineering workflows and rap
 
 ## 📄 Publications & Certifications
 
-* **IEEE Research Publication:** Co-author, [*"NeuVitX: Automated Monitoring of Intravenous Glucose Infusion and Vital Signs"*](https://ieeexplore.ieee.org/document/11132275) — IEEE Xplore (DOI: `10.1109/11132275`).
-* **UI/UX Design Certification:** Introduction to UI/UX Designing using Figma Workshop (OFB).
-* **Education:** B.Tech in Computer Science and Engineering, APJ Abdul Kalam Technological University (KTU), Kerala, India (2021 – 2025).
+* **IEEE Research Publication:** Co-author, [*"NeuVitX: Automated Monitoring of Intravenous Glucose Infusion and Vital Signs"*](https://ieeexplore.ieee.org/document/11132275) — IEEE Xplore (DOI: `10.1109/11132275`)
+* **UI/UX Design Certification:** Introduction to UI/UX Designing using Figma Workshop (OFB)
+
+---
+
+## 🎓 Education
+
+* **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
+  APJ Abdul Kalam Technological University (KTU), Kerala, India *(2021 – 2025)*
 
 ---
 
