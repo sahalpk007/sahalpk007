@@ -1,6 +1,6 @@
 # Hi, I'm Muhammed Sahal P K 👋
 
-Full-Stack Developer leveraging modern AI-assisted engineering workflows and rapid prototyping to build scalable web, mobile, and real-time systems. Proficient across TypeScript, Next.js, React, Node.js, NestJS, and PostgreSQL, with production experience in cross-platform Flutter mobile development, IoT hardware integration, and published peer-reviewed healthcare research.
+AI-Native Full-Stack Developer leveraging modern AI-assisted engineering workflows and rapid prototyping to build scalable web, mobile, and real-time systems. Proficient across TypeScript, Next.js, React, Node.js, NestJS, and PostgreSQL, with production experience in cross-platform Flutter mobile development, IoT hardware integration, and published peer-reviewed healthcare research.
 
 ---
 
@@ -56,7 +56,7 @@ Full-Stack Developer leveraging modern AI-assisted engineering workflows and rap
 
 ## 💼 Work Experience
 
-* **Software Developer** | Unified Pro26 *(Nov 2025 – Sep 2026)*
+* **Software Developer** | Unified Pro26 *(Nov 2025 – Present)*
   * Built NestJS REST APIs and React 19 interfaces for a multi-tenant Construction Management System (CMS), implementing PostGIS geofenced site attendance and asset tracking.
   * Designed normalized Prisma database schemas and integrated WebSocket gateways using Socket.IO for the Restaurant Management System (RMS).
   * Maintained high API contract reliability through Swagger/OpenAPI documentation and peer code reviews.
