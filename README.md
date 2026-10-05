@@ -104,14 +104,5 @@ AI-Native Full-Stack Developer leveraging modern AI-assisted engineering workflo
 * **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
   APJ Abdul Kalam Technological University (KTU), Kerala, India *(2021 – 2025)*
 
----
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=sahalpk007&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=sahalpk007&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahalpk007&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
-</p>
