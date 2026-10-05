@@ -109,9 +109,9 @@ AI-Native Full-Stack Developer leveraging modern AI-assisted engineering workflo
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=sahalpk007&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sahalpk007&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=sahalpk007&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sahalpk007&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahalpk007&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 </p>
