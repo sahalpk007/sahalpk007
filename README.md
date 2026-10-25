@@ -94,6 +94,7 @@ AI-Native Full-Stack Developer leveraging modern AI-assisted engineering workflo
 
 ## 📄 Publications & Certifications
 
+* **One Million Prompters Certification:** Prompt Engineering for AI Systems — Dubai Future Foundation & Dubai Centre for Artificial Intelligence (2026)
 * **IEEE Research Publication:** Co-author, [*"NeuVitX: Automated Monitoring of Intravenous Glucose Infusion and Vital Signs"*](https://ieeexplore.ieee.org/document/11132275) — IEEE Xplore (DOI: `10.1109/11132275`)
 * **UI/UX Design Certification:** Introduction to UI/UX Designing using Figma Workshop (OFB)
 
