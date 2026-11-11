@@ -1,6 +1,6 @@
 # Hi, I'm Muhammed Sahal P K 👋
 
-AI-Native Full-Stack Developer leveraging modern AI-assisted engineering workflows and rapid prototyping to build scalable web, mobile, and real-time systems. Proficient across TypeScript, Next.js, React, Node.js, NestJS, and PostgreSQL, with production experience in cross-platform Flutter mobile development, IoT hardware integration, and published peer-reviewed healthcare research.
+Full-Stack Developer leveraging AI-assisted development workflows and rapid prototyping to build scalable web, mobile, and real-time systems. Proficient across TypeScript, Next.js, React, Node.js, NestJS, and PostgreSQL, with hands-on production experience spanning cross-platform Flutter development, IoT hardware integration, and published peer-reviewed healthcare research.
 
 ---
 
@@ -28,10 +28,11 @@ AI-Native Full-Stack Developer leveraging modern AI-assisted engineering workflo
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
 
-### Backend, APIs & Architecture
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -40,7 +41,6 @@ AI-Native Full-Stack Developer leveraging modern AI-assisted engineering workflo
 
 ### Databases & Cloud Services
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -56,39 +56,41 @@ AI-Native Full-Stack Developer leveraging modern AI-assisted engineering workflo
 
 ## 💼 Work Experience
 
-* **Software Developer** | Unified Pro26 *(Nov 2025 – Present)*
-  * Built NestJS REST APIs and React 19 interfaces for a multi-tenant Construction Management System (CMS), implementing PostGIS geofenced site attendance and asset tracking.
-  * Designed normalized Prisma database schemas and integrated WebSocket gateways using Socket.IO for the Restaurant Management System (RMS).
-  * Maintained high API contract reliability through Swagger/OpenAPI documentation and peer code reviews.
+* **Software Developer** | Unified Pro26 *(Nov 2025 – Sep 2026)*
+  * Developed NestJS REST APIs and React interfaces for the Construction Management System (CMS) to manage equipment asset tracking, accounts expense recording, and company role-based access control (RBAC).
+  * Structured relational PostgreSQL database models and managed data access layers via Prisma ORM for transaction aggregation and project-cost tracking.
+  * Engineered real-time kitchen display pipelines and order status updates for the Restaurant Management System (RMS) using NestJS WebSocket gateways, Socket.IO, and polling synchronization.
+  * Authored backend REST endpoints documented through Swagger/OpenAPI, and participated in Agile sprint routines and peer code reviews.
 
 * **Full Stack Developer Intern** | Unified Pro26 *(May 2025 – Oct 2025)*
-  * Engineered responsive activity-tracking views and reporting modules for an Enterprise CRM using Next.js (App Router), React 19, and Tailwind CSS.
-  * Managed centralized state stores and caching with Zustand and TanStack Query, cutting manual administrative processing time by 60%.
-  * Architected and published *Qriosity*, an interactive trivia app on Google Play using Flutter, Dart, and Appwrite Cloud.
+  * Built dynamic activity-tracking interfaces (Calls, Visits, Workshops) for an enterprise CRM platform using Next.js (App Router), React, and Tailwind CSS.
+  * Managed client-side application state and query caching across CRM views using Zustand and TanStack Query, resolving conditional form schemas and backend DTO mapping.
+  * Architected and published *Qriosity*, an interactive trivia app on Google Play, using Flutter, Dart, and Appwrite Cloud with anonymous authentication and in-memory scoring.
+  * Validated and documented RESTful API endpoints via Postman, collaborating in daily Agile standups and sprint retrospectives.
 
 ---
 
 ## 🚀 Featured Projects
 
 * **Construction Management System (CMS)**
-  * *Tech:* React 19, NestJS, TypeScript, PostgreSQL, PostGIS, Prisma, Leaflet
-  * Multi-tenant operations platform featuring geofenced field attendance, asset tracking, and company-level role-based access control (RBAC).
+  * *Tech:* React, NestJS, TypeScript, PostgreSQL, Prisma ORM
+  * Multi-tenant operations module managing asset allocation, accounts expense recording, and project-cost rollups with company-level RBAC.
 
 * **Restaurant Management System (RMS)**
-  * *Tech:* React 18, NestJS 11, TypeScript, Socket.IO, PostgreSQL, Prisma, Redis
-  * High-concurrency restaurant platform featuring real-time kitchen display pipelines and automated order state management.
+  * *Tech:* React, NestJS, TypeScript, Socket.IO, PostgreSQL, Prisma ORM, Redis
+  * Operational restaurant platform featuring real-time Kitchen Display System (KDS) order tracking, WebSocket gateways, and order state synchronization.
 
 * **Qriosity: Mobile Trivia Platform**
-  * *Tech:* Flutter, Dart, Appwrite Cloud, Node.js, GetX
-  * Solo-developed quiz application published on Google Play, implementing token-based onboarding, live question streaming, and offline persistence.
+  * *Tech:* Flutter, Dart, Appwrite Cloud, GetX
+  * Solo-developed quiz application published on Google Play, featuring anonymous session authentication, in-memory result evaluation, and offline fallback handling.
 
 * **Enterprise CRM Platform**
-  * *Tech:* Next.js 16, React 19, TypeScript, Tailwind CSS, Zustand, Ant Design
-  * Scalable customer relationship management frontend with centralized client-side caching and dynamic analytics reporting.
+  * *Tech:* Next.js (App Router), React, TypeScript, Tailwind CSS, Zustand, TanStack Query, Ant Design
+  * Multi-tab activity tracking dashboard handling complex conditional forms, backend DTO mapping, and centralized query caching.
 
 * **NeuVitX: IoT Patient Vital Monitoring System**
-  * *Tech:* Python, Raspberry Pi, IoT Sensors, Flutter, Firebase, REST APIs
-  * Hardware-to-cloud telemetry infrastructure streaming intravenous infusion rates and vital signs to Firebase cloud backends.
+  * *Tech:* Python, Raspberry Pi, HX711 Load Cell, MAX30102 Sensor, Flutter, Firebase
+  * Dual-telemetry healthcare device tracking intravenous fluid volume and pulse-oximetry data, streaming validated sensor readings to Firebase Realtime Database.
 
 ---
 
@@ -104,6 +106,3 @@ AI-Native Full-Stack Developer leveraging modern AI-assisted engineering workflo
 
 * **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
   APJ Abdul Kalam Technological University (KTU), Kerala, India *(2021 – 2025)*
-
-
-
